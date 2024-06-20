@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dalibor_95.MyMartList",
+      "sha256_cert_fingerprints": ["99:15:0A:66:2B:D7:83:DB:7C:89:48:8A:E2:E0:C9:0F:B6:1B:3A:CB:F7:B4:48:91:36:1C:1C:03:98:A5:D4:83"]
+    }
+  }
+]
